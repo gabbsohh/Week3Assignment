@@ -1,0 +1,8 @@
+C:\Users\orteg\Documents\CSharp Spr 23\Week3\bin\Debug\Week3.exe.config
+C:\Users\orteg\Documents\CSharp Spr 23\Week3\bin\Debug\Week3.exe
+C:\Users\orteg\Documents\CSharp Spr 23\Week3\bin\Debug\Week3.pdb
+C:\Users\orteg\Documents\CSharp Spr 23\Week3\obj\Debug\Week3.csproj.AssemblyReference.cache
+C:\Users\orteg\Documents\CSharp Spr 23\Week3\obj\Debug\Week3.csproj.SuggestedBindingRedirects.cache
+C:\Users\orteg\Documents\CSharp Spr 23\Week3\obj\Debug\Week3.csproj.CoreCompileInputs.cache
+C:\Users\orteg\Documents\CSharp Spr 23\Week3\obj\Debug\Week3.exe
+C:\Users\orteg\Documents\CSharp Spr 23\Week3\obj\Debug\Week3.pdb
